@@ -4,6 +4,7 @@
 // @author Leonardo Gama - leonardo.gama@fm.usp.br
 // @description Adiciona algumas funcionalidades à página de listagem de exames do HCmed
 //
+// @script https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js
 // @script https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/locale/pt-br.js
 // @script https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js
 // @script https://cdnjs.cloudflare.com/ajax/libs/Dynatable/0.3.1/jquery.dynatable.min.js
