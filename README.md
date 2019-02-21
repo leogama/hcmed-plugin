@@ -1,5 +1,5 @@
 # HCmed Plugin
-Esta é uma pequena coleção de [bookmarklets](https://pt.wikipedia.org/wiki/Bookmarklet) que adicionam algumas facilidades às páginas do sistema HCmed.
+É uma pequena coleção de [bookmarklets](https://pt.wikipedia.org/wiki/Bookmarklet) que adicionam algumas facilidades às páginas do sistema HCmed.
 
 ## Instalação
 Salve os links abaixo na *Barra de Favoritos* do seu navegador:
