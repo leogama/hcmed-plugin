@@ -8,4 +8,4 @@ Uma coleção de [bookmarklets](https://pt.wikipedia.org/wiki/Bookmarklet) que a
   - Filtrar por tipo de exame
 
 ---
-### Desenvolvido por [Leonardo Gama](https://about.me/leogama).
+**Desenvolvido por [Leonardo Gama](https://about.me/leogama) em momentos de tédio.**
